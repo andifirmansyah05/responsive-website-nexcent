@@ -7,6 +7,7 @@ export default {
         silver: "#F5F7FA",
         gray: "#717171",
         darkgray: "#4D4D4D",
+        dark: "#263238",
         primary: "#4CAF4F",
       },
       fontFamily: {
