@@ -5,6 +5,7 @@ import Community from "./assets/components/Community";
 import CommunityUpdate from "./assets/components/CommunityUpdate";
 import Customers from "./assets/components/Customers";
 import Footer from "./assets/components/Footer";
+import FooterBig from "./assets/components/FooterBig";
 import Hero from "./assets/components/Hero";
 import NavBar from "./assets/components/NavBar";
 import Unlock from "./assets/components/Unlock";
@@ -24,6 +25,7 @@ function App() {
       <Customers />
       <CommunityUpdate />
       <Footer />
+      <FooterBig  />
     </div>
   );
 }
